@@ -1,4 +1,4 @@
-# SnakeFX
+# Simon (Game)
 
 Created a JavaScript application based on the classic "Simon Game" - https://en.wikipedia.org/wiki/Simon_(game)
 
